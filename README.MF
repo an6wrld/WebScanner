@@ -1,0 +1,12 @@
+# an6wrld
+# WebScanner
+
+Installing
+Termux & Cloud Shell
+
+$ git clone https://github.com/an6wrld/WebScanner.git
+$ cd WebScanner
+$ python3 an6wrld.py
+
+Don't forget to install
+- requests,ipapi,colorama,builtwith
