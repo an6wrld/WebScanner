@@ -1,8 +1,7 @@
-# an6wrld
-# WebScanner
+#an6wrld
+#WebScanner
 
 Installing
-Termux & Cloud Shell
 
 $ git clone https://github.com/an6wrld/WebScanner.git
 $ cd WebScanner
