@@ -1,11 +1,6 @@
-#an6wrld
-#WebScanner
-
 Installing
+git clone https://github.com/an6wrld/WebScanner.git
+cd WebScanner
+python3 an6wrld.py
 
-$ git clone https://github.com/an6wrld/WebScanner.git
-$ cd WebScanner
-$ python3 an6wrld.py
-
-Don't forget to install
-- requests,ipapi,colorama,builtwith
+Don't forget to install requests,colorama,builtwith,ipapi
