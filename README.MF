@@ -2,6 +2,6 @@
 Installing
 git clone https://github.com/an6wrld/WebScanner.git
 cd WebScanner
-python3 an6wrld.py
+python3 an6scanner.py
 
 Don't forget to install requests,colorama,builtwith,ipapi
